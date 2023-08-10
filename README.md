@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN , Java , C++**
 
-- 📫 How to reach me **shettyprajwal388@gmail.com**
+- 📫 How to reach me **buntsprajwal@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
